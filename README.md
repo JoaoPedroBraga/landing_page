@@ -31,4 +31,4 @@ GitHub: [/JoaoPedroBraga](https://github.com/JoaoPedroBraga)
 
 
 # landing_page
-Ladingpage para deafio 1 da DNC
+Landing page para desafio 1 da DNC
